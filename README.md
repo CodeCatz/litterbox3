@@ -1,4 +1,4 @@
-Litterbox - season 2
+Litterbox - season 3
 ==========
 
 - Clone this repository
